@@ -26,7 +26,7 @@ def main():
 
         cv2.imshow(WINDOW_NAME, image_BGR)
 
-        # Wait for the 'q' key to leave the loop
+        # Wait for the 'q' key to leave the loopggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
         if cv2.waitKey(1) == ord("q"):
             break
 
